@@ -11,7 +11,6 @@
 		"128": "icon128.png"
 	},
 	"name": "Bloom",
-	"permissions": [ "appNotifications" ],
 	"version": "1.0",
 	"manifest_version": 2,
 	"author": "Myerscough College",
