@@ -1,4 +1,1 @@
-bloom-chromeapp
-===============
-
-Bloom App for Google Chrom
+# Bloom App for Google Chrome
