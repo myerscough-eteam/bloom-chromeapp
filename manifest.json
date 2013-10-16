@@ -1,0 +1,23 @@
+{
+	"app": {
+		"launch": {
+			"container": "tab",
+			"local_path": "home.html"
+		}
+	},
+	"background": {
+		"page": "background.html"
+	},
+	"icons": {
+		"16": "icon16.png",
+		"128": "icon128.png"
+	},
+	"name": "Bloom",
+	"version": "1.0",
+	"manifest_version": 2,
+	"author": "Myerscough College",
+	"omnibox": {
+		"keyword": "bloom"
+	},
+	"permissions": [ "tabs" ]
+}
